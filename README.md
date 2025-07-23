@@ -1,4 +1,5 @@
 Code for: Bayesian Generalized Sparse Symmetric Tensor-on-Vector Regression 
+
 Technometrics, 2021
 
 
